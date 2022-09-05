@@ -14,7 +14,7 @@ description              : &description "CV / ML Researcher"
 url                      : https://berilbesbinar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "berilbesbinar.github.io"
-teaser                   : "teaser.png"
+teaser                   : "lavaux.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "www.linkedin.com/in/beril-besbinar-b4940b43"
+  linkedin         : "https://www.linkedin.com/in/beril-besbinar-b4940b43"
   orcid            :
   pinterest        :
   soundcloud       :
