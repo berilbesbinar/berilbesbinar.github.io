@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 ## Research Interests
-======
 Unsupervised learning, object-centric representations, prediction, 3D vision
 
 ## Education
-======
 * __Ph.D.__,Computer and Communication Sciences, EPFL `2016-2022`
   * Thesis Title: Unsupervised Visual Entity Abstraction Towards 2D and 3D Compositional Models
   * Advisor: Prof. Pascal Frossard
@@ -25,7 +23,6 @@ Unsupervised learning, object-centric representations, prediction, 3D vision
   * Specialized in Signal Processing and Biomedical Imaging
 
 ## Experience
-======
 * __Doctoral Assistant__, LTS4 - EPFL `September 2016 - August 2022`
   * Object-centric video representations and object-centric stochastic video prediction
   * Graph-based representations for mIHC images for immunotheraphy response prediction (iLearn project, in collaboration with SDSC and CHUV)
