@@ -1,59 +1,78 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# Beril Besbinar
+CV / ML Researcher
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+### Research Interests
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Unsupervised learning, object-centric representations, prediction, 3D vision
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Education
+`2016-2022`
+__Ph.D.,Computer and Communication Sciences, EPFL__
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Thesis Title: Unsupervised Visual Entity Abstraction Towards 2D and 3D Compositional Models
+- Advisor: Prof. Pascal Frossard
+
+`2012-2015`
+__M.Sc.,Electrical and Electronics Engineering, METU__
+
+- Thesis Title: Hierarchical Representations for Visual Object Tracking by Detection
+- Advisor: Prof. A.Aydin Alatan
+
+`2008-2012`
+__B.Sc.,Electrical and Electronics Engineering, METU__
+
+- Specialized in Signal Processing and Biomedical Imaging
+
+## Experience
+`September 2016 - August 2022`
+__Doctoral Assistan, LTS4 - EPFL__
+
+- Object-centric video representations and object-centric stochastic video prediction
+- Graph-based representations for mIHC images for immunotheraphy response prediction (iLearn project, in collaboration with SDSC and CHUV)
+- Tools: recurrent neural networks, generative models (VAE, WGAN-GP), graphical models, graph-based representations and graph neural networks; using Tensorflow
+
+`January 2022 - May 2022`
+__External Research Collaborator (20%), Meta__
+
+- Unsupervised object abstraction in 3D
+- Tools: optimal transport, rigid-body transformation; using PyTorch
+
+`July 2021 - October 2021`
+__Research Engineer Intern, Facebook - XR Tech__
+
+- Neural rendering from volumetric representations
+- Tools: neural radiance fields (NeRF), 3D geometry, self-attention; using PyTorch
+
+`September 2012 - August 2016`
+__Research and Teaching Assistant, EE - METU__
+- Object tracking by detection with autoencoder representations
+- Tools: denoising autoencoders; using Theano, particle filters; using Matlab
+
+`March 2015 - July 2016`
+__Researcher, Center for Image Analysis - METU__
+- Literature survey and one-day tutorial on deep learning
+- Object tracking with recurrent neural networks
+- Tools: recurrent neural networks; using Theano
+
+`June 2014 - August 2014`
+__Summer Researcher, LTS4 - EPFL__
+- Classification of visual patterns by sparse parametric decompositions
+- Tools: geometric dictionaries, orhogonal matching pursuit; using Matlab
+
+`June 2014 - August 2014`
+__Researcher, EE - METU__
+- Object detection and segmentation on satellite images
+- Tools: variety of image processing algorithms, BoW descriptor, SVM; using Matlab
+
+`June 2011 - July 2011`
+__Engineering Intern, Aselsan__
+- HF Data Modem transmitter implementation on a DSP board
